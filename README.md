@@ -1,0 +1,2 @@
+# voiceCalculator
+ quick picovoice project
